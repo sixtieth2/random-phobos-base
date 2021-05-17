@@ -1,2 +1,3 @@
-# RIPPhobos-BUILDABLE_SRC-
-Phobos 1.3.3 Buildable src. Dont contact me for help if I don't know you.
+# Phobos DeezNuts edition
+Phobos 8 you ask?
+8 of deez nuts in yo mama!
