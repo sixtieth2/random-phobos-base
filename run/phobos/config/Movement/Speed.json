@@ -1,0 +1,10 @@
+{
+  "Enabled": false,
+  "Drawn": true,
+  "Bind": "None",
+  "DisplayName": "Speed",
+  "Mode": "INSTANT",
+  "Jump": false,
+  "NoShake": true,
+  "UseTimer": false
+}

@@ -1,0 +1,23 @@
+{
+  "Enabled": false,
+  "Drawn": true,
+  "Bind": "None",
+  "DisplayName": "Phase",
+  "Mode": "PACKETFLY",
+  "Type": "SETBACK",
+  "HMove": 625,
+  "YMove": 625,
+  "ExtraPacket": true,
+  "Offset": 1337,
+  "FallPacket": true,
+  "Teleport": true,
+  "BoundingBox": true,
+  "Confirm": 2,
+  "DoublePacket": false,
+  "Update": false,
+  "Reset": false,
+  "PosLook": false,
+  "Cancel": false,
+  "OnlyY": false,
+  "Packets": 20
+}

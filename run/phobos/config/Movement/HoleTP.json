@@ -1,0 +1,12 @@
+{
+  "Enabled": false,
+  "Drawn": true,
+  "Bind": "None",
+  "DisplayName": "HoleTP",
+  "Mode": "TELEPORT",
+  "Range": 1.0,
+  "SetY": false,
+  "XOffset": 0.5,
+  "YOffset": 0.0,
+  "ZOffset": 0.5
+}

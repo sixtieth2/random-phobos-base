@@ -1,0 +1,21 @@
+{
+  "Enabled": true,
+  "Drawn": true,
+  "Bind": "None",
+  "DisplayName": "NoRender",
+  "Fire": true,
+  "Portal": true,
+  "Pumpkin": true,
+  "TotemPop": true,
+  "Items": true,
+  "Nausea": true,
+  "HurtCam": true,
+  "Fog": "NONE",
+  "Weather": true,
+  "BossBars": "NONE",
+  "Scale": 0.5,
+  "Bats": true,
+  "NoArmor": "ALL",
+  "Skylight": "WORLD",
+  "Barriers": true
+}

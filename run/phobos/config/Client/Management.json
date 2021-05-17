@@ -1,0 +1,22 @@
+{
+  "Enabled": false,
+  "Drawn": true,
+  "Bind": "None",
+  "DisplayName": "Management",
+  "BetterMaxFPS": false,
+  "Bracket": "\u003c",
+  "Bracket2": "\u003e",
+  "Command": "Phobos.eu",
+  "BColor": "BLUE",
+  "CColor": "BLUE",
+  "MaxFPS": 300,
+  "Potions": true,
+  "TRUpdates": 500,
+  "SeverTime": 500,
+  "ALUpdates": 1000,
+  "HoleRange": 6.0,
+  "Speed": true,
+  "TRadarInv": true,
+  "UnfocusedCPU": false,
+  "UnfocusedFPS": 60
+}

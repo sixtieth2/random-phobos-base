@@ -1,0 +1,11 @@
+{
+  "Enabled": false,
+  "Drawn": true,
+  "Bind": "R",
+  "DisplayName": "Step",
+  "Height": 2,
+  "Spoof": false,
+  "Delay": 0,
+  "Disable": false,
+  "Offset": false
+}

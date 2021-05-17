@@ -1,0 +1,15 @@
+{
+  "Enabled": false,
+  "Drawn": true,
+  "Bind": "V",
+  "DisplayName": "Strafe",
+  "Mode": "NCP",
+  "SetGround": true,
+  "Bhop": false,
+  "Speed": 100,
+  "Speed1": 130,
+  "Speed2": 125,
+  "Accel": 2149,
+  "Potion": false,
+  "SetStep": true
+}

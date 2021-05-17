@@ -1,0 +1,19 @@
+{
+  "Enabled": true,
+  "Drawn": true,
+  "Bind": "None",
+  "DisplayName": "BlockHighlight",
+  "Box": false,
+  "Outline": true,
+  "Red": 0,
+  "Green": 255,
+  "Blue": 0,
+  "Alpha": 255,
+  "BoxAlpha": 125,
+  "LineWidth": 1.0,
+  "CustomLine": false,
+  "OL-Red": 255,
+  "OL-Green": 255,
+  "OL-Blue": 255,
+  "OL-Alpha": 255
+}

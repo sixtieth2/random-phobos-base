@@ -1,0 +1,18 @@
+{
+  "Enabled": false,
+  "Drawn": true,
+  "Bind": "None",
+  "DisplayName": "Notifications",
+  "TotemPops": false,
+  "TotemNoti": true,
+  "Delay": 2000,
+  "LogoutClear": false,
+  "ModuleMessage": false,
+  "List": false,
+  "LoadFile": false,
+  "Watermark": true,
+  "VisualRange": false,
+  "Coords": true,
+  "Leaving": false,
+  "Crash": false
+}

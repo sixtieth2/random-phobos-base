@@ -1,0 +1,9 @@
+{
+  "Enabled": true,
+  "Drawn": true,
+  "Bind": "None",
+  "DisplayName": "NoSlowDown",
+  "GuiMove": true,
+  "NoSlow": true,
+  "SoulSand": true
+}

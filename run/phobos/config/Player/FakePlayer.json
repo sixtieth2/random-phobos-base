@@ -1,0 +1,9 @@
+{
+  "Enabled": false,
+  "Drawn": true,
+  "Bind": "None",
+  "DisplayName": "FakePlayer",
+  "CopyInv": true,
+  "Multi": false,
+  "Players": 1
+}

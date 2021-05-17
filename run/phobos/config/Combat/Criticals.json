@@ -1,0 +1,12 @@
+{
+  "Enabled": false,
+  "Drawn": true,
+  "Bind": "None",
+  "DisplayName": "Criticals",
+  "Mode": "PACKET",
+  "NoDesync": true,
+  "Packets": 2,
+  "DesyncDelay": 10,
+  "CancelFirst32k": true,
+  "32kDelay": 25
+}

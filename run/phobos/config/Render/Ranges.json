@@ -1,0 +1,11 @@
+{
+  "Enabled": false,
+  "Drawn": true,
+  "Bind": "None",
+  "DisplayName": "Ranges",
+  "HitSpheres": false,
+  "Circle": true,
+  "OwnSphere": false,
+  "LineWidth": 1.5,
+  "Radius": 4.5
+}
